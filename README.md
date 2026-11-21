@@ -49,3 +49,7 @@ To create your own, run `scripts/create-upload-key.ps1` (Windows PowerShell), or
 ## Privacy
 
 Flux Calc collects no data. See the [privacy policy](https://omsk1996.github.io/flux-calc-privacy/).
+
+## License
+
+[MIT](LICENSE)
