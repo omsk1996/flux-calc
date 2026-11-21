@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Themed (monochrome) launcher icon: the Flux Calc wave with its plotted point. -->
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <path
+        android:pathData="M29,56.00 L31,53.02 L33,50.22 L35,47.79 L37,45.87 L39,44.59 L41,44.02 L43,44.21 L45,45.14 L47,46.75 L49,48.95 L51,51.58 L53,54.50 L55,57.50 L57,60.42 L59,63.05 L61,65.25 L63,66.86 L65,67.79 L67,67.98 L69,67.41 L71,66.13 L73,64.21 L75,61.78 L77,58.98 L79,56.00"
+        android:strokeColor="#FFFFFFFF"
+        android:strokeWidth="9"
+        android:strokeLineCap="round"
+        android:strokeLineJoin="round" />
+    <path
+        android:pathData="M36.1,44 a5.4,5.4 0 1,0 10.8,0 a5.4,5.4 0 1,0 -10.8,0 Z"
+        android:fillColor="#FFFFFFFF" />
+</vector>
